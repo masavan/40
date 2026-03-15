@@ -16,6 +16,7 @@ export const SerchFormUncontrold = ({onSearch}: SearchFormProps) => {
         if (value) {
             onSearch(value);
 
+            // @ts-ignore
             inputRef.current.value = '';
         }
 

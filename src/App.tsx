@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef} from 'react'
+import { useState, useEffect} from 'react'
 import type {Film} from "./interfas.tsx";
 import {Card, CardDetails} from "./card";
 import './App.css';
