@@ -1,0 +1,12 @@
+.conteiner{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+}
+
+img{}
+.h3{
+    font-size: 4rem;
+}
+.p{
+    font-size: 3rem;
+}

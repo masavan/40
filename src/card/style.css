@@ -1,0 +1,15 @@
+.card {
+    border: 2px solid #000;
+    border-radius: 10px;
+    padding: 10px;
+    width: 300px;
+    height: auto;
+    margin: 10px 0;
+
+}
+.film{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
